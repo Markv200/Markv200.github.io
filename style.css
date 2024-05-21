@@ -1,27 +1,22 @@
 body {
   background-color: grey;
-  
 }
 
 p {
   color: white;
-  margin-left: 43px;
-  
+  margin-left: 43px;  
 }
 
 h1{
   color: white;
   font-size: 50px;
   font-family: Cursive;
-  
-
 }
 
 h3{
   color: white;
   margin-left: 43px;
-  font-size: 25px;
-  
+  font-size: 25px;  
 }
 
 h2{
